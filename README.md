@@ -1,3 +1,9 @@
 # hello-world
 the first
-what even how is this coding?
+x=100
+while true:
+  if true:
+    x=0
+    x+=14
+    break
+print(x)
